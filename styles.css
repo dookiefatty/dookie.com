@@ -1,0 +1,18 @@
+.loser {
+                background-color: rgb(240, 9, 24);
+                font-size: large;
+                color:white;
+                font-weight: bold;
+            }
+            .container {
+                background-color: rgb(0, 255, 136);
+                
+            }
+            .fatty  {
+                background-color: rgba(0, 255, 234, 0.76);
+                
+            }
+
+            .loginBox {
+                background-color:yellow;
+            }
