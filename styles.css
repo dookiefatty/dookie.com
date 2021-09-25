@@ -1,8 +1,9 @@
 .loser {
                 background-color: rgb(240, 9, 24);
                 font-size: large;
-                color:white;
+                color:rgb(73, 10, 245);
                 font-weight: bold;
+                padding: 20px; 200px; 
             }
             .container {
                 background-color: rgb(0, 255, 136);
