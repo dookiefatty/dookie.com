@@ -5,8 +5,7 @@ var textValue = mytextbox.value;
 var message;
 
         if(textValue == ''){
-            message = "HI AFTTY
-           ";
+            message = "HI AFTTY";
         }else{
             message = textValue;
         }
